@@ -1,3 +1,4 @@
+$('#back__ID').hide();
 //-------------------------------------
 var prefix=$vm.module_list[$vm.vm['__ID'].name].prefix; if(prefix==undefined) prefix="";
 var sql_participant="@('Initials')+' '+@('DOB')";
