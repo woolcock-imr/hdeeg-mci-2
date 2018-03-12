@@ -94,7 +94,7 @@
 		"FU_Fingertapping_Morning":{"table_id":"20011260","url":"/modules/task/finger_tapping_6.html","task":"Evening Finger Tapping Task (6 minutes)","form_module":"FU_Fingertapping_Morning_form"},
 		"FU_Fingertapping_Morning_form":{"table_id":"20011260","url":"/modules/task/finger_tapping_6.form.html"},
 		"Morning_Memory_Set1":{"table_id":"20011261","url":"/modules/task/Set1_Morning_Wordpairs.html"},
-		"Morning_Memory_Set2":{"table_id":"20011262","url":"/modules/task/Set2_Morning_Wordpairs.html"},
+		"Morning_Memory_Set2":{"table_id":"20011262","url":"/modules/task/Set2_morning_wordpairs.html"},
 		"quest_list":{
 			"list":{
 				"General information":[
