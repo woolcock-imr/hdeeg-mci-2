@@ -108,11 +108,8 @@
 					"Concom_meds"
 				],
 				"Screening":[
-					"Anthropometry",
 					"ESS",
-					"SC_Concom_meds",
-					"Sleep_diary",
-					"IncluExclu"
+					"SC_Concom_meds"
 				],
 				"Baseline Evening":[
 					"BL_ESS",
